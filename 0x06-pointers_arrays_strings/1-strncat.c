@@ -21,5 +21,5 @@ src++;
 a++;
 }
 dest[index + a] = '\0';
-return (dest); 
+return (dest);
 }

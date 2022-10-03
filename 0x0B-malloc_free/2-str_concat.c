@@ -38,5 +38,5 @@ limit = j;
 for (j = 0; j <= limit; k++, j++)
 strout[k] = s2[j];
 
-return (strout); 
+return (strout);
 }

@@ -26,5 +26,5 @@ break;
 i++;
 }
 
-return (ops[i / 2].f); 
+return (ops[i / 2].f);
 }
